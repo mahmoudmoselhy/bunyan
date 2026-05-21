@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&display=swap');
+
+:root{
+
+  --main-color: #00315E;
+
+  --white-color:#fff;
+  --second-color:#4FB7B3;
+  --third-color:#6EC1E4;
+  --text-color:#000;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cairo", sans-serif;
+}
+
+
+body{
+  background-color: var(--white-color);
+  color: var(--text-color);
+
+}
+
+.bg-second{
+  background-color: var(--third-color);
+}

@@ -1,0 +1,15 @@
+
+
+.status{
+
+
+    box-shadow: 7px 7px 11px -4px #8d8b8b;
+    max-width: 320px;
+
+
+}
+
+.icon{
+
+    color: var(--main-color)
+}
